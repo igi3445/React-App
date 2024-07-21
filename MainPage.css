@@ -1,0 +1,21 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.task-list {
+  margin-bottom: 20px;
+}
+
+.sprint-info {
+  margin-bottom: 20px;
+}
+
+.user-selection {
+  margin-bottom: 20px;
+}
+
+.team-statistics {
+  margin-bottom: 20px;
+}
